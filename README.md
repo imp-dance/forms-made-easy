@@ -5,6 +5,8 @@
 * [CDN from impedans.me](https://impedans.me/css/form)
 
 ---
+### Changing highlight color
+Simply edit the CSS variable under `.form{}` called `--highlight`
 
 ### HTML markup
 
