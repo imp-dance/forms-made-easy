@@ -3,6 +3,7 @@
 
 * [Demo on CodePen](https://codepen.io/schart/pen/rPyoMp)
 * [CDN from impedans.me](https://impedans.me/css/form)
+* [Inspiration from Lea Verou](https://www.youtube.com/watch?v=vs34f9FiHps&t=487s)
 
 ---
 ### Changing highlight color
